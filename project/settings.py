@@ -25,7 +25,7 @@ SECRET_KEY = '5(e#g*bfw=ubnno)m%b99cqx5k!4shpwz#gbux^h)ntjkba602'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hms.majordomo.ru']
+ALLOWED_HOSTS = ['hms.ivanovtd.ru']
 
 
 # Application definition
